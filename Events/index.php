@@ -681,7 +681,6 @@
                                 <center>Goblin Invasion</center>
                             </td>
 							<td>
-<<<<<<< HEAD
                                 <center><img src="http://musicfamily.org/realm/Factions/picks/SummerParticles.gif" width="54" height="54" /></center>
                                 <center>Summer Festival</center>
                             </td>
@@ -691,11 +690,6 @@
                                 <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleIdillium.png" width="54" height="54" /></center>
                                 <center>Idillium</center>
                             </td>
-=======
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleSummer1.png" width="54" height="54" /></center>
-                                <center>Summer Festival</center>
-                            </td>
->>>>>>> ab5c155b... fix tables
                         </tr>
                     </tbody>
                 </thead>
