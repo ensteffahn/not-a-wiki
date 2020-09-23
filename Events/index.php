@@ -882,11 +882,7 @@
                         <p><img src="/realm/Factions/picks/AllCreation1000.png" align="middle"></p>
                         <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
                         <p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your mana regeneration rate.</p>
-<<<<<<< HEAD
                         <p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per second.</p>
-=======
-                        <p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
->>>>>>> e53ffb9c... Add new event
                         <p><b>Note</b>: All Creation obtained this way cannot be tiered.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/BalanceRestoration3.png" align="middle"> <b>Balance Restoration 3</b></p>
@@ -900,17 +896,10 @@
                         <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                         <br>
                         <p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
-<<<<<<< HEAD
                         <p><b>Requirements</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
                         <br>
                         <p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> <b>Aggressive Collector</b></p>
                         <p><b>Requirements</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
-=======
-                        <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
-                        <br>
-                        <p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> <b>Aggressive Collector</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
->>>>>>> e53ffb9c... Add new event
                         <br>
                         <p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> <b>Golden Age</b></p>
                         <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
