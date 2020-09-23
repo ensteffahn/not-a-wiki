@@ -50,7 +50,11 @@
 					document.getElementById("end").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
 				}
 				
+<<<<<<< HEAD
 				document.getElementById("currentTime").innerHTML = new Date().toUTCString();
+=======
+				document.getElementById("current").innerHTML = new Date().toUTCString();
+>>>>>>> dcaa8650... try fix this shit
 			}, 1000);
         </script>
         <br/>
